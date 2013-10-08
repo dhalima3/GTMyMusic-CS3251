@@ -1,7 +1,7 @@
 /*///////////////////////////////////////////////////////////
 *
 * FILE:		music_client.c
-* AUTHOR:	Vraj Patel
+* AUTHOR:	Daryl Halima, Vraj Patel
 * PROJECT:	CS 3251 Project 2 - Professor Traynor
 * DESCRIPTION:	Network Client Code
 *
